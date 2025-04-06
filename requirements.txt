@@ -1,0 +1,5 @@
+Python 3.x
+
+Libraries: pandas, scikit-learn, numpy, matplotlib
+
+AI-Ops Tools (Optional for advanced simulation): IBM Watson AIOps, Splunk ITSI, Moogsoft
